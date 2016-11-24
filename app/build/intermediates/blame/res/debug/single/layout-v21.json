@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/res/merged/debug/layout-v21/activity_main.xml",
+        "source": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/res/layout-v21/activity_main.xml"
+    },
+    {
+        "merged": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
