@@ -11,14 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 103,
-                        "endOffset": 154
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 218
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 159,
-                        "endColumn": 63,
-                        "endOffset": 218
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 285
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 223,
-                        "endColumn": 66,
-                        "endOffset": 285
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 349
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 290,
-                        "endColumn": 63,
-                        "endOffset": 349
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
@@ -83,17 +55,17 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 354,
-                    "endColumn": 39,
-                    "endOffset": 389
+                    "endColumn": 45,
+                    "endOffset": 395
                 },
                 "from": {
                     "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/res/values-v21/strings.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 39,
-                        "endOffset": 90
+                        "startOffset": 95,
+                        "endColumn": 45,
+                        "endOffset": 136
                     }
                 }
             },
@@ -101,2019 +73,1274 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 394,
-                    "endLine": 12,
-                    "endColumn": 12,
-                    "endOffset": 690
+                    "startOffset": 400,
+                    "endColumn": 39,
+                    "endOffset": 435
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/res/values-v21/styles.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 17,
-                        "endLine": 7,
-                        "endColumn": 12,
-                        "endOffset": 313
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/res/values-v21/strings.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 695,
-                    "endColumn": 90,
-                    "endOffset": 781
+                    "startOffset": 440,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 736
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 354,
-                        "endColumn": 90,
-                        "endOffset": 440
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/res/values-v21/styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 786,
-                    "endColumn": 102,
-                    "endOffset": 884
+                    "startOffset": 741,
+                    "endColumn": 90,
+                    "endOffset": 827
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 445,
-                        "endColumn": 102,
-                        "endOffset": 543
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 889,
+                    "startOffset": 832,
                     "endColumn": 102,
-                    "endOffset": 987
+                    "endOffset": 930
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 548,
-                        "endColumn": 102,
-                        "endOffset": 646
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 992,
-                    "endColumn": 104,
-                    "endOffset": 1092
+                    "startOffset": 935,
+                    "endColumn": 102,
+                    "endOffset": 1033
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 651,
-                        "endColumn": 104,
-                        "endOffset": 751
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1097,
-                    "endColumn": 106,
-                    "endOffset": 1199
+                    "startOffset": 1038,
+                    "endColumn": 104,
+                    "endOffset": 1138
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 756,
-                        "endColumn": 106,
-                        "endOffset": 858
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1204,
-                    "endColumn": 108,
-                    "endOffset": 1308
+                    "startOffset": 1143,
+                    "endColumn": 106,
+                    "endOffset": 1245
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 863,
-                        "endColumn": 108,
-                        "endOffset": 967
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1313,
+                    "startOffset": 1250,
                     "endColumn": 108,
-                    "endOffset": 1417
+                    "endOffset": 1354
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 972,
-                        "endColumn": 108,
-                        "endOffset": 1076
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1422,
+                    "startOffset": 1359,
                     "endColumn": 108,
-                    "endOffset": 1526
+                    "endOffset": 1463
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1081,
-                        "endColumn": 108,
-                        "endOffset": 1185
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1531,
+                    "startOffset": 1468,
                     "endColumn": 108,
-                    "endOffset": 1635
+                    "endOffset": 1572
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1190,
-                        "endColumn": 108,
-                        "endOffset": 1294
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1640,
+                    "startOffset": 1577,
                     "endColumn": 108,
-                    "endOffset": 1744
+                    "endOffset": 1681
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1299,
-                        "endColumn": 108,
-                        "endOffset": 1403
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1749,
-                    "endColumn": 106,
-                    "endOffset": 1851
+                    "startOffset": 1686,
+                    "endColumn": 108,
+                    "endOffset": 1790
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1408,
-                        "endColumn": 106,
-                        "endOffset": 1510
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1856,
-                    "endColumn": 102,
-                    "endOffset": 1954
+                    "startOffset": 1795,
+                    "endColumn": 106,
+                    "endOffset": 1897
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1515,
-                        "endColumn": 102,
-                        "endOffset": 1613
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1959,
-                    "endColumn": 118,
-                    "endOffset": 2073
+                    "startOffset": 1902,
+                    "endColumn": 102,
+                    "endOffset": 2000
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1618,
-                        "endColumn": 118,
-                        "endOffset": 1732
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2078,
-                    "endLine": 27,
-                    "endColumn": 12,
-                    "endOffset": 2228
+                    "startOffset": 2005,
+                    "endColumn": 118,
+                    "endOffset": 2119
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1737,
-                        "endLine": 20,
-                        "endColumn": 12,
-                        "endOffset": 1887
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2233,
-                    "endLine": 29,
+                    "startOffset": 2124,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 2383
+                    "endOffset": 2274
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1892,
-                        "endLine": 22,
-                        "endColumn": 12,
-                        "endOffset": 2042
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2388,
-                    "endColumn": 104,
-                    "endOffset": 2488
+                    "startOffset": 2279,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2429
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2047,
-                        "endColumn": 104,
-                        "endOffset": 2147
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2493,
-                    "endColumn": 120,
-                    "endOffset": 2609
+                    "startOffset": 2434,
+                    "endColumn": 104,
+                    "endOffset": 2534
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 2152,
-                        "endColumn": 120,
-                        "endOffset": 2268
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2614,
-                    "endColumn": 100,
-                    "endOffset": 2710
+                    "startOffset": 2539,
+                    "endColumn": 120,
+                    "endOffset": 2655
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 2273,
-                        "endColumn": 100,
-                        "endOffset": 2369
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2715,
-                    "endLine": 34,
-                    "endColumn": 12,
-                    "endOffset": 2857
+                    "startOffset": 2660,
+                    "endColumn": 100,
+                    "endOffset": 2756
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 2374,
-                        "endLine": 27,
-                        "endColumn": 12,
-                        "endOffset": 2516
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2862,
-                    "endLine": 36,
+                    "startOffset": 2761,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 2998
+                    "endOffset": 2903
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 2521,
-                        "endLine": 29,
-                        "endColumn": 12,
-                        "endOffset": 2657
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3003,
-                    "endColumn": 102,
-                    "endOffset": 3101
+                    "startOffset": 2908,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3044
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 2662,
-                        "endColumn": 102,
-                        "endOffset": 2760
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3106,
-                    "endColumn": 118,
-                    "endOffset": 3220
+                    "startOffset": 3049,
+                    "endColumn": 102,
+                    "endOffset": 3147
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 2765,
-                        "endColumn": 118,
-                        "endOffset": 2879
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3225,
-                    "endColumn": 106,
-                    "endOffset": 3327
+                    "startOffset": 3152,
+                    "endColumn": 118,
+                    "endOffset": 3266
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 2884,
-                        "endColumn": 106,
-                        "endOffset": 2986
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3332,
-                    "endColumn": 102,
-                    "endOffset": 3430
+                    "startOffset": 3271,
+                    "endColumn": 106,
+                    "endOffset": 3373
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 2991,
-                        "endColumn": 102,
-                        "endOffset": 3089
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3435,
-                    "endLine": 42,
-                    "endColumn": 12,
-                    "endOffset": 3585
+                    "startOffset": 3378,
+                    "endColumn": 102,
+                    "endOffset": 3476
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 3094,
-                        "endLine": 35,
-                        "endColumn": 12,
-                        "endOffset": 3244
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3590,
-                    "endLine": 44,
+                    "startOffset": 3481,
+                    "endLine": 43,
                     "endColumn": 12,
-                    "endOffset": 3756
+                    "endOffset": 3631
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 3249,
-                        "endLine": 37,
-                        "endColumn": 12,
-                        "endOffset": 3415
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3761,
-                    "endLine": 46,
+                    "startOffset": 3636,
+                    "endLine": 45,
                     "endColumn": 12,
-                    "endOffset": 3905
+                    "endOffset": 3802
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 3420,
-                        "endLine": 39,
-                        "endColumn": 12,
-                        "endOffset": 3564
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3910,
-                    "endLine": 48,
+                    "startOffset": 3807,
+                    "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 4070
+                    "endOffset": 3951
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 4,
-                        "startOffset": 3569,
-                        "endLine": 41,
-                        "endColumn": 12,
-                        "endOffset": 3729
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4075,
-                    "endLine": 50,
+                    "startOffset": 3956,
+                    "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 4227
+                    "endOffset": 4116
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 42,
-                        "startColumn": 4,
-                        "startOffset": 3734,
-                        "endLine": 43,
-                        "endColumn": 12,
-                        "endOffset": 3886
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4232,
-                    "endLine": 52,
+                    "startOffset": 4121,
+                    "endLine": 51,
                     "endColumn": 12,
-                    "endOffset": 4378
+                    "endOffset": 4273
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 44,
-                        "startColumn": 4,
-                        "startOffset": 3891,
-                        "endLine": 45,
-                        "endColumn": 12,
-                        "endOffset": 4037
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4383,
-                    "endColumn": 118,
-                    "endOffset": 4497
+                    "startOffset": 4278,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4424
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 46,
-                        "startColumn": 4,
-                        "startOffset": 4042,
-                        "endColumn": 118,
-                        "endOffset": 4156
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 4502,
-                    "endLine": 58,
-                    "endColumn": 12,
-                    "endOffset": 4869
+                    "startOffset": 4429,
+                    "endColumn": 118,
+                    "endOffset": 4543
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 47,
-                        "startColumn": 4,
-                        "startOffset": 4161,
-                        "endLine": 51,
-                        "endColumn": 12,
-                        "endOffset": 4528
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 4874,
-                    "endLine": 60,
+                    "startOffset": 4548,
+                    "endLine": 59,
                     "endColumn": 12,
-                    "endOffset": 5018
+                    "endOffset": 4915
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 52,
-                        "startColumn": 4,
-                        "startOffset": 4533,
-                        "endLine": 53,
-                        "endColumn": 12,
-                        "endOffset": 4677
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 5023,
-                    "endLine": 62,
+                    "startOffset": 4920,
+                    "endLine": 61,
                     "endColumn": 12,
-                    "endOffset": 5167
+                    "endOffset": 5064
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 54,
-                        "startColumn": 4,
-                        "startOffset": 4682,
-                        "endLine": 55,
-                        "endColumn": 12,
-                        "endOffset": 4826
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5172,
-                    "endColumn": 111,
-                    "endOffset": 5279
+                    "startOffset": 5069,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 5213
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 56,
-                        "startColumn": 4,
-                        "startOffset": 4831,
-                        "endColumn": 111,
-                        "endOffset": 4938
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 5284,
-                    "endColumn": 146,
-                    "endOffset": 5426
+                    "startOffset": 5218,
+                    "endColumn": 111,
+                    "endOffset": 5325
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 57,
-                        "startColumn": 4,
-                        "startOffset": 4943,
-                        "endColumn": 146,
-                        "endOffset": 5085
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 5431,
-                    "endLine": 66,
-                    "endColumn": 12,
-                    "endOffset": 5579
+                    "startOffset": 5330,
+                    "endColumn": 146,
+                    "endOffset": 5472
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 58,
-                        "startColumn": 4,
-                        "startOffset": 5090,
-                        "endLine": 59,
-                        "endColumn": 12,
-                        "endOffset": 5238
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 5584,
-                    "endLine": 68,
+                    "startOffset": 5477,
+                    "endLine": 67,
                     "endColumn": 12,
-                    "endOffset": 5726
+                    "endOffset": 5625
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 60,
-                        "startColumn": 4,
-                        "startOffset": 5243,
-                        "endLine": 61,
-                        "endColumn": 12,
-                        "endOffset": 5385
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 5731,
-                    "endColumn": 74,
-                    "endOffset": 5801
+                    "startOffset": 5630,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 5772
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 62,
-                        "startColumn": 4,
-                        "startOffset": 5390,
-                        "endColumn": 74,
-                        "endOffset": 5460
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 5806,
-                    "endColumn": 88,
-                    "endOffset": 5890
+                    "startOffset": 5777,
+                    "endColumn": 74,
+                    "endOffset": 5847
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 63,
-                        "startColumn": 4,
-                        "startOffset": 5465,
-                        "endColumn": 88,
-                        "endOffset": 5549
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 5895,
-                    "endColumn": 86,
-                    "endOffset": 5977
+                    "startOffset": 5852,
+                    "endColumn": 88,
+                    "endOffset": 5936
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 64,
-                        "startColumn": 4,
-                        "startOffset": 5554,
-                        "endColumn": 86,
-                        "endOffset": 5636
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 5982,
-                    "endColumn": 100,
-                    "endOffset": 6078
+                    "startOffset": 5941,
+                    "endColumn": 86,
+                    "endOffset": 6023
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 65,
-                        "startColumn": 4,
-                        "startOffset": 5641,
-                        "endColumn": 100,
-                        "endOffset": 5737
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 6083,
-                    "endColumn": 102,
-                    "endOffset": 6181
+                    "startOffset": 6028,
+                    "endColumn": 100,
+                    "endOffset": 6124
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 66,
-                        "startColumn": 4,
-                        "startOffset": 5742,
-                        "endColumn": 102,
-                        "endOffset": 5840
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 6186,
-                    "endLine": 117,
-                    "endColumn": 12,
-                    "endOffset": 9249
+                    "startOffset": 6129,
+                    "endColumn": 102,
+                    "endOffset": 6227
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 67,
-                        "startColumn": 4,
-                        "startOffset": 5845,
-                        "endLine": 110,
-                        "endColumn": 12,
-                        "endOffset": 8908
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 118,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 9254,
-                    "endLine": 120,
+                    "startOffset": 6232,
+                    "endLine": 118,
                     "endColumn": 12,
-                    "endOffset": 9435
+                    "endOffset": 9079
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 111,
-                        "startColumn": 4,
-                        "startOffset": 8913,
-                        "endLine": 113,
-                        "endColumn": 12,
-                        "endOffset": 9094
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 121,
+                    "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 9440,
-                    "endLine": 164,
+                    "startOffset": 9084,
+                    "endLine": 121,
                     "endColumn": 12,
-                    "endOffset": 12515
+                    "endOffset": 9265
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 114,
-                        "startColumn": 4,
-                        "startOffset": 9099,
-                        "endLine": 157,
-                        "endColumn": 12,
-                        "endOffset": 12174
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 165,
+                    "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 12520,
-                    "endLine": 167,
+                    "startOffset": 9270,
+                    "endLine": 165,
                     "endColumn": 12,
-                    "endOffset": 12713
+                    "endOffset": 12129
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 158,
-                        "startColumn": 4,
-                        "startOffset": 12179,
-                        "endLine": 160,
-                        "endColumn": 12,
-                        "endOffset": 12372
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 168,
+                    "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 12718,
-                    "endLine": 170,
+                    "startOffset": 12134,
+                    "endLine": 168,
                     "endColumn": 12,
-                    "endOffset": 12913
+                    "endOffset": 12327
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 161,
-                        "startColumn": 4,
-                        "startOffset": 12377,
-                        "endLine": 163,
-                        "endColumn": 12,
-                        "endOffset": 12572
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 12918,
-                    "endLine": 172,
+                    "startOffset": 12332,
+                    "endLine": 171,
                     "endColumn": 12,
-                    "endOffset": 13036
+                    "endOffset": 12527
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 164,
-                        "startColumn": 4,
-                        "startOffset": 12577,
-                        "endLine": 165,
-                        "endColumn": 12,
-                        "endOffset": 12695
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 173,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 13041,
-                    "endLine": 174,
+                    "startOffset": 12532,
+                    "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 13159
+                    "endOffset": 12650
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 166,
-                        "startColumn": 4,
-                        "startOffset": 12700,
-                        "endLine": 167,
-                        "endColumn": 12,
-                        "endOffset": 12818
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13164,
-                    "endLine": 176,
+                    "startOffset": 12655,
+                    "endLine": 175,
                     "endColumn": 12,
-                    "endOffset": 13272
+                    "endOffset": 12773
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 168,
-                        "startColumn": 4,
-                        "startOffset": 12823,
-                        "endLine": 169,
-                        "endColumn": 12,
-                        "endOffset": 12931
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 177,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 13277,
-                    "endLine": 179,
+                    "startOffset": 12778,
+                    "endLine": 177,
                     "endColumn": 12,
-                    "endOffset": 13455
+                    "endOffset": 12886
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 170,
-                        "startColumn": 4,
-                        "startOffset": 12936,
-                        "endLine": 172,
-                        "endColumn": 12,
-                        "endOffset": 13114
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 13460,
-                    "endLine": 181,
+                    "startOffset": 12891,
+                    "endLine": 180,
                     "endColumn": 12,
-                    "endOffset": 13586
+                    "endOffset": 13069
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 173,
-                        "startColumn": 4,
-                        "startOffset": 13119,
-                        "endLine": 174,
-                        "endColumn": 12,
-                        "endOffset": 13245
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 182,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 13591,
-                    "endLine": 184,
+                    "startOffset": 13074,
+                    "endLine": 182,
                     "endColumn": 12,
-                    "endOffset": 13787
+                    "endOffset": 13200
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 175,
-                        "startColumn": 4,
-                        "startOffset": 13250,
-                        "endLine": 177,
-                        "endColumn": 12,
-                        "endOffset": 13446
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 13792,
-                    "endColumn": 88,
-                    "endOffset": 13876
+                    "startOffset": 13205,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 13401
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 178,
-                        "startColumn": 4,
-                        "startOffset": 13451,
-                        "endColumn": 88,
-                        "endOffset": 13535
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 13881,
-                    "endColumn": 110,
-                    "endOffset": 13987
+                    "startOffset": 13406,
+                    "endColumn": 88,
+                    "endOffset": 13490
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 179,
-                        "startColumn": 4,
-                        "startOffset": 13540,
-                        "endColumn": 110,
-                        "endOffset": 13646
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 13992,
-                    "endLine": 189,
-                    "endColumn": 12,
-                    "endOffset": 14220
+                    "startOffset": 13495,
+                    "endColumn": 110,
+                    "endOffset": 13601
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 180,
-                        "startColumn": 4,
-                        "startOffset": 13651,
-                        "endLine": 182,
-                        "endColumn": 12,
-                        "endOffset": 13879
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 14225,
-                    "endColumn": 100,
-                    "endOffset": 14321
+                    "startOffset": 13606,
+                    "endLine": 190,
+                    "endColumn": 12,
+                    "endOffset": 13834
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 183,
-                        "startColumn": 4,
-                        "startOffset": 13884,
-                        "endColumn": 100,
-                        "endOffset": 13980
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14326,
-                    "endColumn": 94,
-                    "endOffset": 14416
+                    "startOffset": 13839,
+                    "endColumn": 100,
+                    "endOffset": 13935
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 184,
-                        "startColumn": 4,
-                        "startOffset": 13985,
-                        "endColumn": 94,
-                        "endOffset": 14075
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 14421,
-                    "endColumn": 122,
-                    "endOffset": 14539
+                    "startOffset": 13940,
+                    "endColumn": 94,
+                    "endOffset": 14030
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 185,
-                        "startColumn": 4,
-                        "startOffset": 14080,
-                        "endColumn": 122,
-                        "endOffset": 14198
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 14544,
-                    "endColumn": 128,
-                    "endOffset": 14668
+                    "startOffset": 14035,
+                    "endColumn": 122,
+                    "endOffset": 14153
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 186,
-                        "startColumn": 4,
-                        "startOffset": 14203,
-                        "endColumn": 128,
-                        "endOffset": 14327
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14673,
-                    "endColumn": 116,
-                    "endOffset": 14785
+                    "startOffset": 14158,
+                    "endColumn": 128,
+                    "endOffset": 14282
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 187,
-                        "startColumn": 4,
-                        "startOffset": 14332,
-                        "endColumn": 116,
-                        "endOffset": 14444
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 14790,
-                    "endLine": 197,
-                    "endColumn": 12,
-                    "endOffset": 14962
+                    "startOffset": 14287,
+                    "endColumn": 116,
+                    "endOffset": 14399
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 188,
-                        "startColumn": 4,
-                        "startOffset": 14449,
-                        "endLine": 190,
-                        "endColumn": 12,
-                        "endOffset": 14621
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 14967,
-                    "endColumn": 98,
-                    "endOffset": 15061
+                    "startOffset": 14404,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 14576
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 191,
-                        "startColumn": 4,
-                        "startOffset": 14626,
-                        "endColumn": 98,
-                        "endOffset": 14720
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 15066,
-                    "endLine": 200,
-                    "endColumn": 12,
-                    "endOffset": 15196
+                    "startOffset": 14581,
+                    "endColumn": 98,
+                    "endOffset": 14675
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 192,
-                        "startColumn": 4,
-                        "startOffset": 14725,
-                        "endLine": 193,
-                        "endColumn": 12,
-                        "endOffset": 14855
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 201,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 15201,
-                    "endLine": 202,
+                    "startOffset": 14680,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 15339
+                    "endOffset": 14810
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 194,
-                        "startColumn": 4,
-                        "startOffset": 14860,
-                        "endLine": 195,
-                        "endColumn": 12,
-                        "endOffset": 14998
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 15344,
-                    "endLine": 204,
+                    "startOffset": 14815,
+                    "endLine": 203,
                     "endColumn": 12,
-                    "endOffset": 15474
+                    "endOffset": 14953
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 196,
-                        "startColumn": 4,
-                        "startOffset": 15003,
-                        "endLine": 197,
-                        "endColumn": 12,
-                        "endOffset": 15133
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 205,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 15479,
-                    "endLine": 206,
+                    "startOffset": 14958,
+                    "endLine": 205,
                     "endColumn": 12,
-                    "endOffset": 15593
+                    "endOffset": 15088
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 198,
-                        "startColumn": 4,
-                        "startOffset": 15138,
-                        "endLine": 199,
-                        "endColumn": 12,
-                        "endOffset": 15252
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 207,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 15598,
-                    "endLine": 210,
+                    "startOffset": 15093,
+                    "endLine": 207,
                     "endColumn": 12,
-                    "endOffset": 15794
+                    "endOffset": 15207
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 200,
-                        "startColumn": 4,
-                        "startOffset": 15257,
-                        "endLine": 203,
-                        "endColumn": 12,
-                        "endOffset": 15453
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 15799,
-                    "endLine": 212,
+                    "startOffset": 15212,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 15913
+                    "endOffset": 15408
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 204,
-                        "startColumn": 4,
-                        "startOffset": 15458,
-                        "endLine": 205,
-                        "endColumn": 12,
-                        "endOffset": 15572
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15918,
-                    "endColumn": 92,
-                    "endOffset": 16006
+                    "startOffset": 15413,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 15527
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 206,
-                        "startColumn": 4,
-                        "startOffset": 15577,
-                        "endColumn": 92,
-                        "endOffset": 15665
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 16011,
-                    "endColumn": 110,
-                    "endOffset": 16117
+                    "startOffset": 15532,
+                    "endColumn": 92,
+                    "endOffset": 15620
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 207,
-                        "startColumn": 4,
-                        "startOffset": 15670,
-                        "endColumn": 110,
-                        "endOffset": 15776
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 16122,
-                    "endColumn": 55,
-                    "endOffset": 16173
+                    "startOffset": 15625,
+                    "endColumn": 110,
+                    "endOffset": 15731
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 208,
-                        "startColumn": 4,
-                        "startOffset": 15781,
-                        "endColumn": 55,
-                        "endOffset": 15832
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 16178,
-                    "endLine": 217,
-                    "endColumn": 12,
-                    "endOffset": 16280
+                    "startOffset": 15736,
+                    "endColumn": 55,
+                    "endOffset": 15787
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 209,
-                        "startColumn": 4,
-                        "startOffset": 15837,
-                        "endLine": 210,
-                        "endColumn": 12,
-                        "endOffset": 15939
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 218,
+                    "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 16285,
-                    "endLine": 221,
+                    "startOffset": 15792,
+                    "endLine": 218,
                     "endColumn": 12,
-                    "endOffset": 16475
+                    "endOffset": 15894
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 211,
-                        "startColumn": 4,
-                        "startOffset": 15944,
-                        "endLine": 214,
-                        "endColumn": 12,
-                        "endOffset": 16134
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 222,
+                    "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 16480,
-                    "endLine": 223,
+                    "startOffset": 15899,
+                    "endLine": 222,
                     "endColumn": 12,
-                    "endOffset": 16586
+                    "endOffset": 16089
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 215,
-                        "startColumn": 4,
-                        "startOffset": 16139,
-                        "endLine": 216,
-                        "endColumn": 12,
-                        "endOffset": 16245
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 224,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 16591,
-                    "endLine": 225,
+                    "startOffset": 16094,
+                    "endLine": 224,
                     "endColumn": 12,
-                    "endOffset": 16719
+                    "endOffset": 16200
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 217,
-                        "startColumn": 4,
-                        "startOffset": 16250,
-                        "endLine": 218,
-                        "endColumn": 12,
-                        "endOffset": 16378
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 16724,
-                    "endColumn": 94,
-                    "endOffset": 16814
+                    "startOffset": 16205,
+                    "endLine": 226,
+                    "endColumn": 12,
+                    "endOffset": 16333
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 219,
-                        "startColumn": 4,
-                        "startOffset": 16383,
-                        "endColumn": 94,
-                        "endOffset": 16473
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 16819,
-                    "endColumn": 90,
-                    "endOffset": 16905
+                    "startOffset": 16338,
+                    "endColumn": 94,
+                    "endOffset": 16428
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 220,
-                        "startColumn": 4,
-                        "startOffset": 16478,
-                        "endColumn": 90,
-                        "endOffset": 16564
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 16910,
+                    "startOffset": 16433,
                     "endColumn": 90,
-                    "endOffset": 16996
+                    "endOffset": 16519
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 221,
-                        "startColumn": 4,
-                        "startOffset": 16569,
-                        "endColumn": 90,
-                        "endOffset": 16655
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 17001,
-                    "endColumn": 116,
-                    "endOffset": 17113
+                    "startOffset": 16524,
+                    "endColumn": 90,
+                    "endOffset": 16610
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 222,
-                        "startColumn": 4,
-                        "startOffset": 16660,
-                        "endColumn": 116,
-                        "endOffset": 16772
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 17118,
-                    "endLine": 231,
-                    "endColumn": 12,
-                    "endOffset": 17252
+                    "startOffset": 16615,
+                    "endColumn": 116,
+                    "endOffset": 16727
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 223,
-                        "startColumn": 4,
-                        "startOffset": 16777,
-                        "endLine": 224,
-                        "endColumn": 12,
-                        "endOffset": 16911
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 232,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 17257,
-                    "endColumn": 70,
-                    "endOffset": 17323
+                    "startOffset": 16732,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 16866
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 225,
-                        "startColumn": 4,
-                        "startOffset": 16916,
-                        "endColumn": 70,
-                        "endOffset": 16982
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 17328,
-                    "endColumn": 82,
-                    "endOffset": 17406
+                    "startOffset": 16871,
+                    "endColumn": 70,
+                    "endOffset": 16937
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 226,
-                        "startColumn": 4,
-                        "startOffset": 16987,
-                        "endColumn": 82,
-                        "endOffset": 17065
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 17411,
-                    "endLine": 243,
-                    "endColumn": 12,
-                    "endOffset": 18086
+                    "startOffset": 16942,
+                    "endColumn": 82,
+                    "endOffset": 17020
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 227,
-                        "startColumn": 4,
-                        "startOffset": 17070,
-                        "endLine": 236,
-                        "endColumn": 12,
-                        "endOffset": 17745
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 18091,
-                    "endColumn": 56,
-                    "endOffset": 18143
+                    "startOffset": 17025,
+                    "endLine": 244,
+                    "endColumn": 12,
+                    "endOffset": 17643
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 237,
-                        "startColumn": 4,
-                        "startOffset": 17750,
-                        "endColumn": 56,
-                        "endOffset": 17802
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 18148,
-                    "endColumn": 57,
-                    "endOffset": 18201
+                    "startOffset": 17648,
+                    "endColumn": 56,
+                    "endOffset": 17700
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 238,
-                        "startColumn": 4,
-                        "startOffset": 17807,
-                        "endColumn": 57,
-                        "endOffset": 17860
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 18206,
-                    "endLine": 257,
-                    "endColumn": 12,
-                    "endOffset": 18895
+                    "startOffset": 17705,
+                    "endColumn": 57,
+                    "endOffset": 17758
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 239,
-                        "startColumn": 4,
-                        "startOffset": 17865,
-                        "endLine": 250,
-                        "endColumn": 12,
-                        "endOffset": 18554
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 258,
+                    "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 18900,
-                    "endLine": 269,
+                    "startOffset": 17763,
+                    "endLine": 258,
                     "endColumn": 12,
-                    "endOffset": 19601
+                    "endOffset": 18382
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 251,
-                        "startColumn": 4,
-                        "startOffset": 18559,
-                        "endLine": 262,
-                        "endColumn": 12,
-                        "endOffset": 19260
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 270,
+                    "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 19606,
-                    "endColumn": 118,
-                    "endOffset": 19720
+                    "startOffset": 18387,
+                    "endLine": 270,
+                    "endColumn": 12,
+                    "endOffset": 19018
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 263,
-                        "startColumn": 4,
-                        "startOffset": 19265,
-                        "endColumn": 118,
-                        "endOffset": 19379
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 19725,
-                    "endColumn": 128,
-                    "endOffset": 19849
+                    "startOffset": 19023,
+                    "endColumn": 118,
+                    "endOffset": 19137
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 264,
-                        "startColumn": 4,
-                        "startOffset": 19384,
-                        "endColumn": 128,
-                        "endOffset": 19508
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 19854,
-                    "endLine": 274,
-                    "endColumn": 12,
-                    "endOffset": 20020
-                },
-                "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 265,
-                        "startColumn": 4,
-                        "startOffset": 19513,
-                        "endLine": 267,
-                        "endColumn": 12,
-                        "endOffset": 19679
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 275,
-                    "startColumn": 4,
-                    "startOffset": 20025,
-                    "endLine": 277,
-                    "endColumn": 12,
-                    "endOffset": 20186
-                },
-                "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 268,
-                        "startColumn": 4,
-                        "startOffset": 19684,
-                        "endLine": 270,
-                        "endColumn": 12,
-                        "endOffset": 19845
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 278,
-                    "startColumn": 4,
-                    "startOffset": 20191,
+                    "startOffset": 19142,
                     "endColumn": 128,
-                    "endOffset": 20315
+                    "endOffset": 19266
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 271,
-                        "startColumn": 4,
-                        "startOffset": 19850,
-                        "endColumn": 128,
-                        "endOffset": 19974
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 19271,
+                    "endLine": 275,
+                    "endColumn": 12,
+                    "endOffset": 19437
+                },
+                "from": {
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 19442,
+                    "endLine": 278,
+                    "endColumn": 12,
+                    "endOffset": 19603
+                },
+                "from": {
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 20320,
-                    "endLine": 281,
-                    "endColumn": 12,
-                    "endOffset": 20486
+                    "startOffset": 19608,
+                    "endColumn": 128,
+                    "endOffset": 19732
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 272,
-                        "startColumn": 4,
-                        "startOffset": 19979,
-                        "endLine": 274,
-                        "endColumn": 12,
-                        "endOffset": 20145
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 282,
+                    "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 20491,
-                    "endColumn": 130,
-                    "endOffset": 20617
+                    "startOffset": 19737,
+                    "endLine": 282,
+                    "endColumn": 12,
+                    "endOffset": 19903
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 275,
-                        "startColumn": 4,
-                        "startOffset": 20150,
-                        "endColumn": 130,
-                        "endOffset": 20276
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 20622,
-                    "endLine": 285,
-                    "endColumn": 12,
-                    "endOffset": 20787
+                    "startOffset": 19908,
+                    "endColumn": 130,
+                    "endOffset": 20034
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 276,
-                        "startColumn": 4,
-                        "startOffset": 20281,
-                        "endLine": 278,
-                        "endColumn": 12,
-                        "endOffset": 20446
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 286,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 20792,
-                    "endLine": 288,
+                    "startOffset": 20039,
+                    "endLine": 286,
                     "endColumn": 12,
-                    "endOffset": 20962
+                    "endOffset": 20204
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 279,
-                        "startColumn": 4,
-                        "startOffset": 20451,
-                        "endLine": 281,
-                        "endColumn": 12,
-                        "endOffset": 20621
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 289,
+                    "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 20967,
-                    "endLine": 293,
+                    "startOffset": 20209,
+                    "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 21303
+                    "endOffset": 20379
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 282,
-                        "startColumn": 4,
-                        "startOffset": 20626,
-                        "endLine": 286,
-                        "endColumn": 12,
-                        "endOffset": 20962
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 294,
+                    "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 21308,
-                    "endLine": 296,
+                    "startOffset": 20384,
+                    "endLine": 294,
                     "endColumn": 12,
-                    "endOffset": 21497
+                    "endOffset": 20720
                 },
                 "from": {
-                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 4,
-                        "endColumn": 12,
-                        "endOffset": 244
-                    }
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 20725,
+                    "endLine": 297,
+                    "endColumn": 12,
+                    "endOffset": 20914
+                },
+                "from": {
+                    "file": "/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/values-v21/values-v21.xml"
                 }
             }
         ]

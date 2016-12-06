@@ -2,4 +2,5 @@
 <resources>
     <string name="authentication">Authentication</string>
     <string name="vazio">Vazio</string>
+    <string name="textview">TextView</string>
 </resources>

@@ -3,9 +3,6 @@
     package="com.android.mferovante.qrcomputing">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-
 
     <application
         android:allowBackup="true"
@@ -13,9 +10,6 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <service android:name="internetServiceOperation.InternetServiceOperation" />
-
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -40,7 +34,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.android.mferovante.qrcomputing.MainActivity" />
         </activity>
-        <receiver android:name=".MainActivity$ReceptorOperation" />
     </application>
 
 </manifest>

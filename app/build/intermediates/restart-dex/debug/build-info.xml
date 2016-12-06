@@ -1,37 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi-v7a,armeabi"
-    api-level="23"
+    api-level="25"
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="8657349658578"
+    timestamp="24896784253503"
     token="6958312520344642248"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="3650" />
+        duration="2225" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="555" />
+        duration="81" />
     <task
         name="verifier"
-        duration="25" />
+        duration="1" />
 
     <artifact
-        location="/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="8657349658578"
+        timestamp="18805943907482"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="22558832350964"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="24309138244364"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="24896784253503"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

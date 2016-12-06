@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:2:1-46:12
+ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:3:5-49
 		INJECTED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml
@@ -17,16 +17,8 @@ uses-permission#android.permission.INTERNET
 ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
 		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:5:22-64
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:6:5-79
-	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:6:22-76
-uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:7:5-76
-	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:7:22-73
 application
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:10:5-44:19
+ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:7:5-37:19
 MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:19:5-21:19
@@ -44,60 +36,52 @@ MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/mferovant
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:transition:25.0.1] /home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:14:9-35
-	android:allowBackup
 		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:15:9-40
-service#internetServiceOperation.InternetServiceOperation
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:17:9-85
-	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:17:18-82
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:12:9-40
 activity#com.android.mferovante.qrcomputing.MainActivity
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:19:9-25:20
+ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:19:19-47
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:17:27-74
 meta-data#com.google.android.gms.version
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:30:9-32:69
+ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:24:9-26:69
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:32:13-66
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:26:13-66
 	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:31:13-58
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:25:13-58
 activity#com.android.mferovante.qrcomputing.SpaceParticipantActivity
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:34:9-42:20
+ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:28:9-36:20
 	android:label
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:36:13-69
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:30:13-69
 	android:parentActivityName
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:37:13-55
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:31:13-55
 	android:theme
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:38:13-56
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:32:13-56
 	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:35:13-53
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:29:13-53
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:39:13-41:83
+ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:33:13-35:83
 	android:value
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:41:17-80
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:35:17-80
 	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:40:17-63
-receiver#com.android.mferovante.qrcomputing.MainActivity$ReceptorOperation
-ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:43:9-68
-	android:name
-		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:43:19-65
+		ADDED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml:34:17-63
 uses-sdk
 INJECTED from /home/mferovante/AndroidStudioProjects/QRcomputing/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/AndroidManifest.xml:17:5-42

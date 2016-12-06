@@ -9,23 +9,24 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.android.mferovante.qrcomputing.SpaceParticipantActivity$PlaceholderFragment">
 
-    <TextView
-        android:id="@+id/textViewMessage"
+    <ImageView
         android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/qr_code"
+        android:id="@+id/imageViewQRcode"
+        android:contentDescription=""
+        tools:ignore="ContentDescription"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
         android:layout_marginStart="11dp"
-        android:textStyle="normal|bold" />
-
-    <ImageView
-        android:id="@+id/imageViewQRcode"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_below="@+id/textViewMessage"
-        android:layout_marginTop="79dp"
-        android:contentDescription=""
-        app:srcCompat="@drawable/qr_code"
-        tools:ignore="ContentDescription,UnknownId" />
-
+        android:id="@+id/textViewName"
+        android:layout_alignParentEnd="true"
+        tools:ignore="HardcodedText" />
 </RelativeLayout>

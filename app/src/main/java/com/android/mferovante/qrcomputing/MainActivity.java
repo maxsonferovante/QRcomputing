@@ -1,30 +1,41 @@
 package com.android.mferovante.qrcomputing;
 
-import android.content.BroadcastReceiver;
+import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.IntentFilter;
+import android.net.Uri;
 import android.os.Bundle;
+import android.support.v4.app.DialogFragment;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Toast;
 
+import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
+import com.google.android.gms.appindexing.Thing;
 import com.google.android.gms.common.api.GoogleApiClient;
 
-import internetServiceOperation.InternetServiceOperation;
-import participant.Participant;
-
+import database.FeedReaderDbHelper;
+import webservice.AcessWebService;
 
 public class MainActivity extends AppCompatActivity {
+    public final static String URL= "http://192.168.1.117:36804/WebWeek/webresources/app/Authentication/get/";
+    public final static String EXTRA_MESSAGE = "com.android.mferovante.qrcomputing";
+
+    private String response = null;
 
     private ImageView imagem = null;
     private Button bttAuth;
     private EditText editTextEnrollment;
+    private AcessWebService aws = null;
+
+    private FeedReaderDbHelper mDbHelper = null;
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
      * See https://g.co/AppIndexing/AndroidStudio for more information.
@@ -44,52 +55,91 @@ public class MainActivity extends AppCompatActivity {
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
-        IntentFilter finlter = new IntentFilter(ReceptorOperation.ACTION_RESP);
-        finlter.addCategory(Intent.CATEGORY_DEFAULT);
-        registerReceiver(new ReceptorOperation(), finlter);
+        mDbHelper = new FeedReaderDbHelper(getApplicationContext());
     }
 
     public void authentication(View view) {
-        Intent intent = new Intent(MainActivity.this, InternetServiceOperation.class);
-        intent.putExtra("Enrollment", editTextEnrollment.getText().toString());
-        startService(intent);
-    }
+        Intent intent = new Intent(this, SpaceParticipantActivity.class);
 
-    public class ReceptorOperation extends BroadcastReceiver {
-        public static final String ACTION_RESP = "com.android.mferovante.qrcomputing.intent.action.Receptor_Operation";
+        EditText editText = (EditText) findViewById(R.id.editTextAcademicEnrollment);
+        editText.setText("");
 
-        @Override
-        public void onReceive(final Context context, final Intent intent) {
-            final Participant part;
-            part = (Participant) intent.getSerializableExtra("participant");
-            if (part != null) {
+        String message = editText.getText().toString();
+        aws = new AcessWebService(URL+message);
 
-                AlertDialog.Builder builder;
-                builder = new AlertDialog.Builder(MainActivity.this);
-                builder.setMessage("Are you registered! Welcome , Maxson Ferovante");
-                builder.setTitle("Success ... ");
-                final AlertDialog.Builder builder1 = builder.setPositiveButton("Continue!", new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int id) {
-                        Context contexto = getApplicationContext();
-                        intent.setClassName(contexto, "InternetServiceOperation.class");
-                        intent.putExtra("participant", part);
-                        startService(intent);
-                    }
-                });
-                // Create the AlertDialog object and return it
-                (builder.create()).show();
-            } else {
-                AlertDialog.Builder builder;
-                builder = new AlertDialog.Builder(MainActivity.this);
-                builder.setTitle("Alert ...");
-                builder.setMessage("Are you registered? I did not find your registration.");
-                builder.setPositiveButton("Try again!", new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int id) {
-                        editTextEnrollment.setText("");
-                    }
-                });
-                (builder.create()).show();
+        if (aws.getStatusWebService()){
+            Toast.makeText(getApplicationContext(),
+                        "WebService available!",
+                        Toast.LENGTH_SHORT).show();
+
+            response = aws.webServiceRequest();
+            if (response != null){
+                Toast.makeText(getApplicationContext(),
+                        "Enrollment found!",
+                        Toast.LENGTH_SHORT).show();
+                Log.i("JSON",response);
+                intent.putExtra(EXTRA_MESSAGE, response);
+                startActivity(intent);
+            }
+            else{
+                Toast.makeText(getApplicationContext(),
+                        "Enrollment not found! try again!",
+                        Toast.LENGTH_SHORT).show();
             }
         }
+        else{
+            AlertDialog alertDialog = new AlertDialog.Builder(MainActivity.this).create();
+            alertDialog.setTitle("Alert");
+            alertDialog.setMessage("We had a problem connecting to our servers." +
+                                    "Please try again. In case, from the error, " +
+                                    "you are probably experiencing serious problems on our servers." +
+                                    "Let us know by e-mail: maxsonferovante@gmail.com. Thanks :D");
+
+            alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL, "OK",
+                    new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int which) {
+                            dialog.dismiss();
+                        }
+                    });
+            alertDialog.show();
+        }
+
+
+    }
+
+    /**
+     * ATTENTION: This was auto-generated to implement the App Indexing API.
+     * See https://g.co/AppIndexing/AndroidStudio for more information.
+     */
+    public Action getIndexApiAction() {
+        Thing object = new Thing.Builder()
+                .setName("Main Page") // TODO: Define a title for the content shown.
+                // TODO: Make sure this auto-generated URL is correct.
+                .setUrl(Uri.parse("http://[ENTER-YOUR-URL-HERE]"))
+                .build();
+        return new Action.Builder(Action.TYPE_VIEW)
+                .setObject(object)
+                .setActionStatus(Action.STATUS_TYPE_COMPLETED)
+                .build();
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        client.connect();
+        AppIndex.AppIndexApi.start(client, getIndexApiAction());
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+
+        // ATTENTION: This was auto-generated to implement the App Indexing API.
+        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        AppIndex.AppIndexApi.end(client, getIndexApiAction());
+        client.disconnect();
     }
 }

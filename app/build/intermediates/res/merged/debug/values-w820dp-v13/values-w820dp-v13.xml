@@ -2,5 +2,6 @@
 <resources>
     <dimen name="activity_horizontal_margin">64dp</dimen>
     <string name="authentication">Authentication</string>
+    <string name="textview">TextView</string>
     <string name="vazio">Vazio</string>
 </resources>

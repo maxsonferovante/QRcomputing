@@ -1,4 +1,7 @@
-#Thu Nov 24 12:28:28 BRST 2016
-base.0=/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Tue Dec 06 17:54:17 BRT 2016
+base.0=/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c686c7830a08149412aa2f379fee93ee5c5f902
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b356d79081af079ea182538cfacee100e97b0a08/classes.dex
+base.1=/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b356d79081af079ea182538cfacee100e97b0a08
+file.0=/home/mferovante/AndroidStudioProjects/QRcomputing/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c686c7830a08149412aa2f379fee93ee5c5f902/classes.dex
